@@ -1,0 +1,2 @@
+# mypyfunc
+generic python functions
